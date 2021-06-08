@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  align-items: flex-end;
+}
+
+.classComp {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.funcComp {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}

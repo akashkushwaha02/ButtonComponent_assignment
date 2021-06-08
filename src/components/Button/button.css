@@ -1,0 +1,44 @@
+.primary {
+  background-color: blue;
+  color: white;
+}
+
+.secondary {
+  background-color: grey;
+  color: white;
+}
+
+.success {
+  background-color: green;
+  color: white;
+}
+
+.danger {
+  background-color: red;
+  color: white;
+}
+
+.xs {
+  height: 15px;
+  width: 25px;
+}
+
+.sm {
+  height: 30px;
+  width: 40px;
+}
+
+.md {
+  height: 45px;
+  width: 55px;
+}
+
+.lg {
+  height: 60px;
+  width: 70px;
+}
+
+.xLg {
+  height: 80px;
+  width: 90px;
+}
